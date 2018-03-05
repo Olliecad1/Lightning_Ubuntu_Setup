@@ -1,4 +1,4 @@
-# Lightning Network Ubuntu 14.04 Installation
+# Lightning Network Ubuntu 14.04 64 bit Installation
 
 
 ## **Note**: THAT LIGHTNING IS STILL IN TESTING MODE EVEN THOUGH THIS IS SETUP ON MAINNET, LIGHTNING IS SITLL BEING TESTED SO HAVE FUN WITH THE COMMANDS
